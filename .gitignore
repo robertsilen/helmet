@@ -1,0 +1,9 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+
+# generated data outputs, not source
+*.xlsx
+*.json
+old/
