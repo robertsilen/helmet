@@ -1,5 +1,5 @@
 # helmet
-Scripts to access library data at helmet.fi
+Script to access library data at helmet.fi and enrich with IMDB rating from omdbapi.com
 
 ## Setup
 
